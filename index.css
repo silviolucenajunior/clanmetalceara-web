@@ -1,6 +1,9 @@
 @import url("https://fonts.googleapis.com/css?family=New+Rocker&display=swap");
+body {
+  background-color: #121212; }
+
 .heading-1 {
-  color: #778899;
+  color: #2f4f4f;
   font-family: 'New Rocker', cursive;
   font-size: 5rem;
   text-align: center; }
