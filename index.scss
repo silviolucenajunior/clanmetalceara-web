@@ -7,6 +7,21 @@ body {
 .heading-1 {
     color: $primary-color;
     font-family: 'New Rocker', cursive;
-    font-size: 5rem;
+    font-size: 4.5rem;
     text-align: center;
+}
+
+.eventos__title {
+    color: $primary-color;
+    font-family: 'New Rocker', cursive;
+    font-size: 3rem;
+}
+
+.evento-list {
+    list-style: none;
+    &__item-title {
+        color: $primary-color;
+        font-family: 'New Rocker', cursive;
+        font-size: 1.5rem;
+    }
 }

@@ -5,7 +5,19 @@ body {
 .heading-1 {
   color: #2f4f4f;
   font-family: 'New Rocker', cursive;
-  font-size: 5rem;
+  font-size: 4.5rem;
   text-align: center; }
+
+.eventos__title {
+  color: #2f4f4f;
+  font-family: 'New Rocker', cursive;
+  font-size: 3rem; }
+
+.evento-list {
+  list-style: none; }
+  .evento-list__item-title {
+    color: #2f4f4f;
+    font-family: 'New Rocker', cursive;
+    font-size: 1.5rem; }
 
 /*# sourceMappingURL=index.css.map */
